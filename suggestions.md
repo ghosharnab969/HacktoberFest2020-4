@@ -53,3 +53,4 @@ I [Harpreet Madaan] (https://github.com/harpreet199) I would like to suggest for
 
 I [Prateek](https://github.com/Ocoderdude) suggest you to not memorizing the solutions to the competetive problems, instead understand the logic or the pattern used in the problem. Try to make your code optimised always with good space and time complexity.
 
+I Arnab Ghosh (https://github.com/ghosharnab969) suggest you to connect with communities online so as to experience new stuffs.
